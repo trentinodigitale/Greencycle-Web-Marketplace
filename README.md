@@ -25,3 +25,13 @@ means any operation the principal result of which is waste serving a useful purp
 
 * ‘Disposal’ means any operation which is not recovery even where the operation has as a secondary consequence the reclamation of substances or energy. Annex I sets out a non-exhaustive list of disposal operations.
 
+BETA VERSION
+The platform is hosted by Trentino Digitale Spa Data Center and it is available in BETA version here: https://www.greencycle.it/
+The BETA version has been released Septembre 2019
+It will be tested and refined jointly with the Circular Economy Manager Network from September 2019 to February 2020, with the feedback received
+
+HOW TO GIVE FEEDBACK
+It is possible to open an issue (suggestions, bugs, contents, etc) to the tea, about the platform opening an issue here.
+https://github.com/informaticatrentina/Greencycle-Web-Marketplace/issues
+
+
